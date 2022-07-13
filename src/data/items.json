@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Artwork #1",
+    "price": 66.66,
+    "imgUrl": "/images/artwork-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Artwork #2",
+    "price": 77.77,
+    "imgUrl": "/images/artwork-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Artwork #2",
+    "price": 88.988,
+    "imgUrl": "/images/artwork-3.png"
+  },
+  {
+    "id": 4,
+    "name": "Artwork #2",
+    "price": 99.99,
+    "imgUrl": "/images/artwork-4.png"
+  }
+]
